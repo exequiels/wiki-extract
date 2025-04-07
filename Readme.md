@@ -30,6 +30,8 @@ _Please note that the information used in the following examples may change with
 
 ### [JavaScript Array Methods Cheatsheet](docs/Javascript.md#javascript-array-methods)
 
+### [Typescript Interface & Type Use Cases Summary](docs/Typescript.md#use-cases-summary)
+
 ### [HTTP Status Code Guide](docs/Http_status_code_guide.md)
 
 ### [BIM360 Documentation](https://aps.autodesk.com/en/docs/bim360/v1/overview/introduction/)
