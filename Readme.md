@@ -1,4 +1,4 @@
-# Extract of Personal Wiki
+# Extract of my Personal Wiki
 
 My path of learning.
 
@@ -8,19 +8,21 @@ _Please note that the information used in the following examples may change with
 
 # Topics
 
-## [SourceTree](docs/Sourcetree.md)
+### [SourceTree](docs/Sourcetree.md)
 
-## [Git Flow Using SourceTree](docs/Gitflow.md)
+### [Git Flow Using SourceTree](docs/Gitflow.md)
 
-## [AWS Route](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
+### [React](docs/React.md)
 
-## [AWS Certified Cloud Practitioner Certification Course](docs/Awscloudpracticioner.md)
+### [Typescript](docs/Typescript.md)
 
-## [React](docs/React.md)
+### [Javascript](docs/Javascript.md)
 
-## [Javascript](docs/Javascript.md)
+### [PHP](docs/Php.md)
 
-## [PHP](docs/Php.md)
+### [AWS Route](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
+
+### [AWS Certified Cloud Practitioner Certification Course](docs/Awscloudpracticioner.md)
 
 ---
 
@@ -34,9 +36,9 @@ _Please note that the information used in the following examples may change with
 
 ### [ACC Documentation](https://aps.autodesk.com/en/docs/acc/v1/overview/introduction/)
 
-## Tools
-
 ---
+
+## Tools
 
 ### React
 
