@@ -32,6 +32,8 @@ _Please note that the information used in the following examples may change with
 
 ### [Typescript Interface & Type Use Cases Summary](docs/Typescript.md#use-cases-summary)
 
+### [Typescript Utility Types](docs/Typescript.md#utility-types)
+
 ### [HTTP Status Code Guide](docs/Http_status_code_guide.md)
 
 ### [BIM360 Documentation](https://aps.autodesk.com/en/docs/bim360/v1/overview/introduction/)

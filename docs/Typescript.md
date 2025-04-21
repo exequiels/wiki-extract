@@ -185,6 +185,8 @@ userId = true // Error
 
 - Union with objects (Discriminated Union)
 
+We have used discrimated unions in pimento, they are very usefull and we can read more of diferent strategys if we check it under Pimento Core Module Explanation.
+
 ```ts
 type Success = {
   status: 'success'
@@ -206,3 +208,21 @@ function handle(result: Result) {
   }
 }
 ```
+
+## Utility Types
+
+Utility types in TypeScript help keep your code clean, reusable, and type-safe. They allow you to manipulate types dynamically instead of manually redefining them.
+
+### Summary Table
+
+| Utility Type     | Description                                         |
+| ---------------- | --------------------------------------------------- |
+| `Partial<T>`     | Makes all properties optional                       |
+| `Required<T>`    | Makes all properties required                       |
+| `Readonly<T>`    | Makes all properties read-only                      |
+| `Pick<T, K>`     | Selects specific properties from a type             |
+| `Omit<T, K>`     | Removes specific properties from a type             |
+| `Extract<T, U>`  | Keeps only values present in both types             |
+| `Exclude<T, U>`  | Removes values present in both types                |
+| `Record<K, T>`   | Creates an object type with keys `K` and values `T` |
+| `NonNullable<T>` | Removes `null` and `undefined` from a type          |
