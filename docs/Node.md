@@ -112,4 +112,4 @@ Now we can manage multiple Node.js versions globally on our Windows system!
 | `nvm alias default <version>` | Set default Node.js version        |
 | `nvm uninstall <version>`     | Uninstall a specific version       |
 
-Happy coding with Node.js!
+![NVM Command E.g.](../images/util/nvm.png)
