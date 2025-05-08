@@ -24,11 +24,17 @@ _Please note that the information used in the following examples may change with
 
 ### [AWS Certified Cloud Practitioner Certification Course](docs/Awscloudpracticioner.md)
 
+### [Node](docs/Node.md)
+
 ---
 
 ## Shortcuts
 
+### [NVM Commands Summary](docs/Node.md#common-nvm-commands-summary)
+
 ### [JavaScript Array Methods Cheatsheet](docs/Javascript.md#javascript-array-methods)
+
+### [JavaScript Truthy and Falsy](docs/Javascript.md#truthy-and-falsys)
 
 ### [Typescript Interface & Type Use Cases Summary](docs/Typescript.md#use-cases-summary)
 
