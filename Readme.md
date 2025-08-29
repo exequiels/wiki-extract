@@ -30,6 +30,8 @@ _Please note that the information used in the following examples may change with
 
 ## Shortcuts
 
+### [Useful Commands](docs/Php.md#useful-commands)
+
 ### [NVM Commands Summary](docs/Node.md#common-nvm-commands-summary)
 
 ### [JavaScript Array Methods Cheatsheet](docs/Javascript.md#javascript-array-methods)

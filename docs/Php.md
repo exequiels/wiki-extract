@@ -120,6 +120,116 @@ Makes it easier to build robust applications with minimal coding.
 
 ---
 
+### Useful Commands
+
+**Cleaning**
+
+```bash
+# Clean cache
+php artisan cache:clear
+
+# Clean route cache
+php artisan route:clear
+
+# Clean config cache
+php artisan config:clear
+
+# Clean view cache
+php artisan view:clear
+
+# Clean all caches
+php artisan optimize:clear
+
+# Clean event caches
+php artisan event:clear
+```
+
+**Configuration**
+
+```bash
+# Cache config
+php artisan config:cache
+
+# Cache routes
+php artisan route:cache
+
+# Cache views
+php artisan view:cache
+
+# Reload config no restart (for Laravel Octane)
+php artisan config:reload
+```
+
+**Autoload**
+
+```bash
+# Regenerate composer autoload
+composer dump-autoload
+
+# Optimize autoload (PSR-4 and classmap)
+composer dump-autoload -o
+```
+
+**Database**
+
+```bash
+# Exec migrations
+php artisan migrate
+
+# Rollback last migration
+php artisan migrate:rollback
+
+# Reset all migrations
+php artisan migrate:reset
+
+# Create migration
+php artisan make:migration create_table_name
+
+# Exec seed
+php artisan db:seed
+
+# Migrate + seed
+php artisan migrate --seed
+```
+
+**Develop**
+
+```bash
+# Start dev server
+php artisan serve
+
+# List routes
+php artisan route:list
+
+# Create model + migration + controller
+php artisan make:model ModelName -mc
+
+# Create controller
+php artisan make:controller ControllerName
+
+# Create middleware
+php artisan make:middleware MiddlewareName
+```
+
+**Useful**
+
+```bash
+# List all commands
+php artisan list
+
+# View help of specific command
+php artisan help command-name
+
+# Generate app key
+php artisan key:generate
+
+# Clean package cache
+php artisan package:discover
+
+# Current app status
+php artisan about
+```
+
 ```
 
 ```
