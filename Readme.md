@@ -8,51 +8,51 @@ _Please note that the information used in the following examples may change with
 
 # Topics
 
-### [SourceTree](docs/Sourcetree.md)
+- [SourceTree](docs/Sourcetree.md)
 
-### [Git Flow Using SourceTree](docs/Gitflow.md)
+- [Git Flow Using SourceTree](docs/Gitflow.md)
 
-### [React](docs/React.md)
+- [React](docs/React.md)
 
-### [Typescript](docs/Typescript.md)
+- [Typescript](docs/Typescript.md)
 
-### [Javascript](docs/Javascript.md)
+- [Javascript](docs/Javascript.md)
 
-### [PHP](docs/Php.md)
+- [PHP](docs/Php.md)
 
-### [AWS Route](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
+- [AWS Route](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
 
-### [AWS Certified Cloud Practitioner Certification Course](docs/Awscloudpracticioner.md)
+- [AWS Certified Cloud Practitioner Certification Course](docs/Awscloudpracticioner.md)
 
-### [Node](docs/Node.md)
+- [Node](docs/Node.md)
 
 ---
 
 ## Shortcuts
 
-### [Useful Commands](docs/Php.md#useful-commands)
+- [Useful Commands](docs/Php.md#useful-commands)
 
-### [NVM Commands Summary](docs/Node.md#common-nvm-commands-summary)
+- [NVM Commands Summary](docs/Node.md#common-nvm-commands-summary)
 
-### [JavaScript Array Methods Cheatsheet](docs/Javascript.md#javascript-array-methods)
+- [JavaScript Array Methods Cheatsheet](docs/Javascript.md#javascript-array-methods)
 
-### [JavaScript Truthy and Falsy](docs/Javascript.md#truthy-and-falsys)
+- [JavaScript Truthy and Falsy](docs/Javascript.md#truthy-and-falsys)
 
-### [Typescript Interface & Type Use Cases Summary](docs/Typescript.md#use-cases-summary)
+- [Typescript Interface & Type Use Cases Summary](docs/Typescript.md#use-cases-summary)
 
-### [Typescript Utility Types](docs/Typescript.md#utility-types)
+- [Typescript Utility Types](docs/Typescript.md#utility-types)
 
-### [HTTP Status Code Guide](docs/Http_status_code_guide.md)
+- [HTTP Status Code Guide](docs/Http_status_code_guide.md)
 
-### [BIM360 Documentation](https://aps.autodesk.com/en/docs/bim360/v1/overview/introduction/)
+- [BIM360 Documentation](https://aps.autodesk.com/en/docs/bim360/v1/overview/introduction/)
 
-### [ACC Documentation](https://aps.autodesk.com/en/docs/acc/v1/overview/introduction/)
+- [ACC Documentation](https://aps.autodesk.com/en/docs/acc/v1/overview/introduction/)
 
 ---
 
 ## Tools
 
-### React
+- React
 
 - [Node](https://nodejs.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -60,7 +60,7 @@ _Please note that the information used in the following examples may change with
   - [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [React Dev Tools](https://react.dev/learn/react-developer-tools)
 
-### PHP
+- PHP
 
 - [Install XAMPP](docs/Php.md#install-xampp)
 - [Install Composer](docs/Php.md#install-composer)
